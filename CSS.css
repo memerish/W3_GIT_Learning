@@ -19,14 +19,14 @@ body{
     color: black;
     text-align: justify;
     /* opacity:0.5;*/
-    background:rgba(236, 214, 214, 0.3);
+    background:rgba(157, 106, 106, 0.3);
     font-size: 15px;
 }
 
 h1,h2{
 
     background-color: blueviolet;
-    color:aqua;
+    color:rgb(4, 235, 235);
 }
 
 #operator{
@@ -36,7 +36,7 @@ h1,h2{
 }
 
 p#one{
-    font-size: large;
+    font-size: larger;
 }
 
 *{
