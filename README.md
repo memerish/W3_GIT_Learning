@@ -1,0 +1,1 @@
+THis is just an experiment. I am learning git from w3schools and ChatGPT. it is so easy and simple concept. and this files are just created to learn frontend. THanks!

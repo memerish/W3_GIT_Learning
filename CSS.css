@@ -1,0 +1,57 @@
+body{
+    background-image:url(https://tpc.googlesyndication.com/simgad/8169744333071237861);
+    background-repeat:repeat-y;
+    /*background-repeat:repeat-x;*/
+    background-repeat:no-repeat;
+    background-position:left;
+    background-attachment: fixed;
+}
+#admin{
+    /* admin is just first h1 of this page*/
+    font-family: Georgia;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.spe_para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: justify;
+    /* opacity:0.5;*/
+    background:rgba(236, 214, 214, 0.3);
+    font-size: 15px;
+}
+
+h1,h2{
+
+    background-color: blueviolet;
+    color:aqua;
+}
+
+#operator{
+    text-align: center;
+    color:black;
+    
+}
+
+p#one{
+    font-size: large;
+}
+
+*{
+    text-align: left;
+    background-color:rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+#one{
+    font-size: large;
+}
+#two{
+    font-size:large;
+
+}
+aside{
+
+    background-position:right;
+}
